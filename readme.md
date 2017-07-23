@@ -10,15 +10,15 @@ In Node:
 var TradOrSimp = require('traditional-or-simplified');
 
 // Detect if a string contains Simplified Chinese
-TradOrSimo.isSimplified('无需注册或设置')
+TradOrSimp.isSimplified('无需注册或设置')
 // True
 
 // Detect if a string contains Simplified Chinese
-TradOrSimo.isSimplified('无需注册或设置。')
+TradOrSimp.isSimplified('无需注册或设置。')
 // True
 
 // Detect if a string contains Traditional Chinese
-TradOrSimo.isTraditional('無需帳戶或註冊。')
+TradOrSimp.isTraditional('無需帳戶或註冊。')
 // True
 
 // Detect if a string contains Traditional or Simplified Chinese characters
