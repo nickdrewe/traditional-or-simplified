@@ -1,0 +1,31 @@
+{
+  "name": "traditional-or-simplified",
+  "version": "1.0.0",
+  "description": "Detect if a string contains traditional or simplified Chinese characters.",
+  "main": "TradOrSimp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdrewe/traditional-or-simplified.git"
+  },
+  "keywords": [
+    "chinese",
+    "traditional",
+    "simplified",
+    "detect",
+    "traditional",
+    "chinese",
+    "simplified",
+    "chinese",
+    "node",
+    "javascript"
+  ],
+  "author": "Nick Drewe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickdrewe/traditional-or-simplified/issues"
+  },
+  "homepage": "https://github.com/nickdrewe/traditional-or-simplified#readme"
+}
