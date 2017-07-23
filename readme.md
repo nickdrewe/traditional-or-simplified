@@ -13,10 +13,6 @@ var TradOrSimp = require('traditional-or-simplified');
 TradOrSimp.isSimplified('无需注册或设置')
 // True
 
-// Detect if a string contains Simplified Chinese
-TradOrSimp.isSimplified('无需注册或设置。')
-// True
-
 // Detect if a string contains Traditional Chinese
 TradOrSimp.isTraditional('無需帳戶或註冊。')
 // True
