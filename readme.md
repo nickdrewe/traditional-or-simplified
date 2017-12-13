@@ -27,4 +27,4 @@ TradOrSimp.detect('無需帳戶或註冊。')
   detectionRate: 1 } // Ratio of majority/minority character sets
 ```
 ## About
-Traditional-or-simplified was built by [Nick Drewe](https://www.twitter.com/nickdrewe) to detect the Chinese character set of pages being published on [publishthis.email](https://www.publishthis.email).
+Traditional-or-simplified was built by [Nick Drewe](https://www.twitter.com/nickdrewe) to detect the Chinese character set of pages being published on [wethrift](https://www.wethrift.com) and [publishthis.email](https://www.publishthis.email).
