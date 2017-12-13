@@ -1,6 +1,6 @@
 {
   "name": "traditional-or-simplified",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect if a string contains traditional or simplified Chinese characters.",
   "main": "TradOrSimp.js",
   "scripts": {
